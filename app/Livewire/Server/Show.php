@@ -1,5 +1,5 @@
 <?php
-
+#
 namespace App\Livewire\Server;
 
 use App\Actions\Server\StartSentinel;
